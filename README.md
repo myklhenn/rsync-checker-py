@@ -1,6 +1,6 @@
 # rsync-checker-win
 
-A small Windows system tray app that indicates if an instance of [rsync.exe] is running
+A small Windows system tray app that indicates if an instance of [rsync.exe] is running.
 
 ![rsync-is-not-running]
 ![rsync-is-running]
@@ -13,8 +13,8 @@ Now I use this small Python app to display an icon in Windows 10's system tray t
 
 ## Installation
 
-1. Ensure [Python 3 for Windows] is installed
-2. Ensure the required Python module [infi.systray] is installed (most easily done using the package installer [pip])
+1. Ensure [Python 3 for Windows] is installed.
+2. Ensure the required Python module [infi.systray] is installed (most easily done using the package installer [pip]).
 
     ```
     C:\> pip install infi.systray
